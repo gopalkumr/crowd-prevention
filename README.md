@@ -1,1 +1,39 @@
-# crowd-prevention
+# Project Title
+
+## Description
+
+crowd-preventionn using Machine Learning is a Project Built with YOLOV8 trained with custom dataset. It aims to provide the real time information about the crowd.
+
+![CROWD-SEGMENTATION AND DETECTIION](images/crowd-prev-git-readme.gif)
+
+## Features
+
+- count the number of people in crowd
+- detect the crowd in real time
+- segment the people whos surronded by more people in crowd
+- ...
+
+## Installation
+
+To install and run [Project Name], follow these steps:
+
+1. python 3.11 or higher
+2. ```bash
+   pip install -r requirements.txt
+   ```
+3. ```bash
+   python main.py
+   ```
+
+
+
+
+
+
+## License
+
+[Project Name] is licensed under the [license type]. For more information, see the [LICENSE](link-to-license-file) file.
+
+## Contact
+
+If you have any questions or suggestions regarding [Project Name], feel free to contact us at gopal.kmr@yahoo.com.
