@@ -1,4 +1,4 @@
-# Project Title
+# crowd prevention using yolov8
 
 ## Description
 
@@ -15,14 +15,14 @@ crowd-preventionn using Machine Learning is a Project Built with YOLOV8 trained 
 
 ## Installation
 
-To install and run [Project Name], follow these steps:
+To install and run crowd prevention , follow these steps:
 
 1. python 3.11 or higher
 2. ```bash
    pip install -r requirements.txt
    ```
 3. ```bash
-   python main.py
+   python app.py
    ```
 
 
@@ -32,8 +32,8 @@ To install and run [Project Name], follow these steps:
 
 ## License
 
-[Project Name] is licensed under the [license type]. For more information, see the [LICENSE](link-to-license-file) file.
+crowd prevention is licensed under the MIT. For more information, see the [LICENSE](link-to-license-file) file.
 
 ## Contact
 
-If you have any questions or suggestions regarding [Project Name], feel free to contact us at gopal.kmr@yahoo.com.
+If you have any questions or suggestions regarding This repository , feel free to contact us at gopal.kmr@yahoo.com.
