@@ -4,7 +4,7 @@
 
 crowd-preventionn using Machine Learning is a Project Built with YOLOV8 trained with custom dataset. It aims to provide the real time information about the crowd.
 
-![CROWD-SEGMENTATION AND DETECTIION](images/crowd-prev-git-readme.gif)
+![CROWD-SEGMENTATION AND DETECTIION](images/crowd-screen-rec.gif)
 
 ## Features
 
