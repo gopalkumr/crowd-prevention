@@ -17,7 +17,9 @@ crowd-preventionn using Machine Learning is a Project Built with YOLOV8 trained 
 
 To install and run crowd prevention , follow these steps:
 
+   ```bash
 1. python 3.11 or higher
+```
 2. ```bash
    pip install -r requirements.txt
    ```
